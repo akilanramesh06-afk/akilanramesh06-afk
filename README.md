@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akilanramesh06&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile views" />
-  <a href="mailto:akilanramesh06@gmail.com"><img src="https://img.shields.io/badge/Gmail-akilanramesh06-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=akilanramesh06-afk&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile views" />
+  <a href="mailto:akilanramesh06-afk@gmail.com"><img src="https://img.shields.io/badge/Gmail-akilanramesh06-afk-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/akilan-rameshkumar"><img src="https://img.shields.io/badge/LinkedIn-akilan--rameshkumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -90,11 +90,11 @@ class Akilan:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/akilanramesh06">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=akilanramesh06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+  <a href="https://github.com/akilanramesh06-afk">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=akilanramesh06-afk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
   </a>
-  <a href="https://github.com/akilanramesh06">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilanramesh06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+  <a href="https://github.com/akilanramesh06-afk">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilanramesh06-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
   </a>
 </div>
 
@@ -103,7 +103,7 @@ class Akilan:
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=akilanramesh06&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=akilanramesh06-afk&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </div>
 
 ---
@@ -111,7 +111,7 @@ class Akilan:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akilanramesh06&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akilanramesh06-afk&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
 ---
@@ -119,7 +119,7 @@ class Akilan:
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akilanramesh06&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akilanramesh06-afk&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 </div>
 
 ---
@@ -130,10 +130,10 @@ class Akilan:
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [💊 PharmaSense](https://github.com/akilanramesh06/pharmasense) | Java · MySQL · DBMS | Pharmaceutical data management system with structured DB schemas; improved medicine data organization and retrieval efficiency |
-| [🧠 MindMosaic](https://github.com/akilanramesh06/mindmosaic) | Python · FastAPI · Data Analysis | Student stress analysis platform leveraging data collection & pattern recognition to support well-being through data-driven insights |
-| [🛵 GigShield – AI Insurance](https://github.com/akilanramesh06/gigshield) | Python · AI · OOP · Data Analysis | AI-based insurance recommendation system for Swiggy/Zomato delivery partners; personalized risk evaluation & coverage suggestions |
-| [📧 Email Web Scraper](https://github.com/akilanramesh06/email-scraper) | Python · Web Scraping · BeautifulSoup | Automated email extraction system from web directories; streamlined data collection and structured storage for downstream analysis |
+| [💊 PharmaSense](https://github.com/akilanramesh06-afk/pharmasense) | Java · MySQL · DBMS | Pharmaceutical data management system with structured DB schemas; improved medicine data organization and retrieval efficiency |
+| [🧠 MindMosaic](https://github.com/akilanramesh06-afk/mindmosaic) | Python · FastAPI · Data Analysis | Student stress analysis platform leveraging data collection & pattern recognition to support well-being through data-driven insights |
+| [🛵 GigShield – AI Insurance](https://github.com/akilanramesh06-afk/gigshield) | Python · AI · OOP · Data Analysis | AI-based insurance recommendation system for Swiggy/Zomato delivery partners; personalized risk evaluation & coverage suggestions |
+| [📧 Email Web Scraper](https://github.com/akilanramesh06-afk/email-scraper) | Python · Web Scraping · BeautifulSoup | Automated email extraction system from web directories; streamlined data collection and structured storage for downstream analysis |
 
 </div>
 
