@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akilanramesh06-afk&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile views" />
-  <a href="mailto:akilanramesh06-afk@gmail.com"><img src="https://img.shields.io/badge/Gmail-akilanramesh06-afk-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:akilanramesh06@gmail.com"><img src="https://img.shields.io/badge/Gmail-akilanramesh06%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/akilan-rameshkumar"><img src="https://img.shields.io/badge/LinkedIn-akilan--rameshkumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```python
 class Akilan:
